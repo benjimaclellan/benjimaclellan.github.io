@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Open Quantum Design has now open-sourced our first set of software repos as part of our mission to build the world's first open-source quantum computer. 
+[Open Quantum Design](https://openquantumdesign.org/) has now open-sourced our first set of software repos as part of our mission to build the world's first open-source quantum computer. 
 Check out [`Equilux`](https://github.com/OpenQuantumDesign/equilux) on Github, which 
 includes [interfaces](https://github.com/OpenQuantumDesign/oqd-core) for programming quantum computers at analog and atomic layers,
 [compiler infrastructure](https://github.com/OpenQuantumDesign/oqd-compiler-infrastructure),
