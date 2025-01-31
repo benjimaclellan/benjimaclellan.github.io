@@ -20,5 +20,5 @@ I am a scientist working at the intersections of quantum information science, ph
 
 My research interests revolve around numerical methods for designing and scaling quantum technologies, including computers, networks, and sensors; as well as how machine learning can be used for scientific discovery in physics. 
 
-I am a Technical Lead at Ki3 Photonics Technologies, where I work to add quantum networking capabilities on top of classical telecommunications infrastructure.
+I am a Technical Lead at Ki3 Photonics Technologies, where I integrate quantum networking capabilities on top of classical telecommunications infrastructure.
 I am also a founding contributor to [Open Quantum Design](https://openquantumdesign.org/), a non-profit organization aimed towards developing the world's first full-stack, open-source quantum computer. 
